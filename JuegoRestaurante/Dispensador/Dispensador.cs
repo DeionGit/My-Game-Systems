@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Dispensador : MonoBehaviour
 {
+//Esta clase la usaré para almacenar las variables de cada Surtidor
+//Que hará falta para darle ciertos valores a la soda de los vasos
     [System.Serializable]
     public class Surtidor
     {
